@@ -1,0 +1,10 @@
+.lazy.pic.cat1{ background-image: url('cats1-1024.jpg'); }
+.lazy.pic.cat2{ background-image: url('cats2-1024.jpg'); }
+.lazy.pic.cat3{ background-image: url('cats3-1024.jpg'); }
+
+@media screen and (max-width: 720px){
+
+	.lazy.pic.cat1{ background-image: url('cats1-720.jpg'); }
+	.lazy.pic.cat2{ background-image: url('cats2-720.jpg'); }
+	.lazy.pic.cat3{ background-image: url('cats3-720.jpg'); }
+}
