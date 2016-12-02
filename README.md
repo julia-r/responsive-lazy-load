@@ -7,3 +7,6 @@ http://www.markdixon.ca/design/blog/lazy-load-background-images-a-workaround/ wh
 I added a fallback CSS in case the user has Javascript disabled.
 
 Images by [johnnyberg via freeimages.com] (http://www.freeimages.com/profile/johnnyberg)
+
+
+##Demo: http://htmlpreview.github.io/?https://github.com/julia-r/responsive-lazy-load/master/index.html
